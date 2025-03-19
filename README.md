@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
@@ -208,3 +209,6 @@ This module allows admin to perform five major operations:
 
 
 
+=======
+# Hospital-Management-System
+>>>>>>> 1aa3a9d9a866b35d32cfccfaa8117adafc67ed34
