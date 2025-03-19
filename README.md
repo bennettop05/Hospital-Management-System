@@ -3,9 +3,7 @@
 Hospital Management System using MySQL, Php and Bootstrap
 
 
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
+Video Demo : https://drive.google.com/file/d/1K0b5USO2iRqRz1VRidSzbPh1mFuPk17-/view?usp=sharing
 
 ## Need to work on:
 
@@ -58,15 +56,11 @@ Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan07
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
 
-![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
-
 'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
-
-![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
 
-![image](https://user-images.githubusercontent.com/36665975/66569890-157c6980-eb8a-11e9-9b2f-c0e8a6ef702e.png)
+
 
 The ‘Home’ page consists of 3 modules:
 1. Patient Module
@@ -77,12 +71,9 @@ The ‘Home’ page consists of 3 modules:
 
   &nbsp; &nbsp; &nbsp; This module allows patients to create their account, book an appointment to see a doctor and see their appointment history.
   The registration page(in the home page itself) asks patients to enter their First Name, Last Name, Email ID, Contact Number, Password and radio buttons to select their gender.
-  
-  ![image](https://user-images.githubusercontent.com/36665975/66570027-5b393200-eb8a-11e9-9e97-088630b5e583.png)
+
 
 Once the patient has created his/her own account after clicking the ‘Register’ button, then he will be redirected to his/her Dashboard(Fig 1.5).
-
-![image](https://user-images.githubusercontent.com/36665975/66570123-8c196700-eb8a-11e9-845f-ea02013f1d5c.png)
 
 The Dashboard page allows patients to perform two operations:
 
@@ -201,14 +192,5 @@ This module allows admin to perform five major operations:
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)](https://star-history.com/#kishan0725/Hospital-Management-System&Timeline)
-  
-
-
-
-
 =======
-# Hospital-Management-System
->>>>>>> 1aa3a9d9a866b35d32cfccfaa8117adafc67ed34
+
